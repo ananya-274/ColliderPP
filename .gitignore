@@ -1,1 +1,5 @@
 build
+.vscode/
+todo.txt
+*.o
+*.exe
